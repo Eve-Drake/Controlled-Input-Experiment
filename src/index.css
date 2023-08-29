@@ -1,0 +1,13 @@
+*{
+  font-family: 'Courier New', Courier, monospace;
+  padding: 10px;
+}
+.colour-box{
+  border: 1px black solid;
+  height: 40vh;
+  width: 20vw;
+}
+
+input{
+  width: 20vw;
+}
